@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Panel</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>User Panel</h1>
+    <form action="/logout" method="POST">
+        <button type="submit">Logout</button>
+    </form>
+    <h2>Your API Key</h2>
+    <p><strong>API Key:</strong> <%= user.apiKey %></p>
+    <p><strong>Usage:</strong> <%= user.usage %>/<%= user.limit %></p>
+</body>
+</html>

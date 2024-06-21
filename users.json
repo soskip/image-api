@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1716295631958",
+    "username": "admin",
+    "password": "$2a$08$JrkquACUA8XlFSzCWxgal.9OTTtDFOgUWOhbiU7nLIyENC57HJgL2",
+    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTc3NjM4NTcsImV4cCI6MTc0OTMyMTQ1N30.8bxm_ccgGZupItapdQtk3ECbll_2BhABT3eMhSmrvJE",
+    "apiUrl": "",
+    "limit": "513",
+    "usage": 0,
+    "blocked": false,
+    "role": "admin"
+  },
+  {
+    "id": "1716296041921",
+    "username": "test",
+    "password": "$2a$08$x5CB3GgLZSVXokTqEOkg..SJRogqqfLZA7vdN0HoFFaa0/DQ7wjpO",
+    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTYzMDE2NTIsImV4cCI6MTc0Nzg1OTI1Mn0.-AksW7Jtn9Sz5E0yXJ3e0a8vybeEtlRWklPuhP_e8iA",
+    "apiUrl": "http://localhost:3000/convert",
+    "limit": "100",
+    "usage": 27,
+    "blocked": false,
+    "role": "user",
+    "lastUrlChange": "2024-05-21T14:02:21.088Z"
+  },
+  {
+    "id": "1716297685318",
+    "username": "testowy2",
+    "password": "$2a$08$fOOn.h2fKY/mix1G1UIcGOAkIXoov4stxrxYvkSuApy3sF/2kzj42",
+    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTYyOTc2ODUsImV4cCI6MTc0Nzg1NTI4NX0.pNRX6WkKimRx5mXSkZeU25eRmDpv0_d9Kj6FvtUbXn4",
+    "apiUrl": "auracare.pl",
+    "limit": 100,
+    "usage": 0,
+    "blocked": false,
+    "role": "user"
+  }
+]
